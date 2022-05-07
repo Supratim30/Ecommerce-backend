@@ -1,2 +1,2 @@
-# VarsiTee
+# Eccomerce backend
  MERN Ecommerce
